@@ -28,7 +28,7 @@ https://github.com/tasdid-ahmed/dev-stack
 ## Running Locally
 
 ```bash
-git clone https://github.com/tasdid2222019/dev-stack.git
+git clone https://github.com/tasdid-ahmed/dev-stack.git
 cd dev-stack
 npm install
 npm run dev
