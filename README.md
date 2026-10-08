@@ -8,7 +8,7 @@ https://devstack-by-tasdidahmed.netlify.app/
 
 ## Repository
 
-https://github.com/tasdid2222019/dev-stack
+https://github.com/tasdid-ahmed/dev-stack
 
 ## Features
 
